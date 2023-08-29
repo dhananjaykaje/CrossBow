@@ -1,0 +1,187 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.crossbow"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:5-65
+12-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:22-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:22-77
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:5-72
+14-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:22-69
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:5-81
+15-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:5-80
+16-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:22-77
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:3:5-67
+17-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:3:22-64
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
+18-->[com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
+19
+20    <queries>
+20-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+21        <intent>
+21-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
+22            <action android:name="android.media.action.IMAGE_CAPTURE" />
+22-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
+22-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
+23        </intent>
+24    </queries>
+25
+26    <application
+26-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:14:5-33:19
+27        android:name="com.crossbow.MainApplication"
+27-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:15:7-38
+28        android:allowBackup="false"
+28-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:19:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:17:7-41
+32        android:label="@string/app_name"
+32-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:16:7-39
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:18:7-52
+34        android:theme="@style/AppTheme"
+34-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:20:7-38
+35        android:usesCleartextTraffic="true" >
+35-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:13:9-44
+36        <activity
+36-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:9-111
+37            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+37-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:19-83
+38            android:exported="false" />
+38-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:84-108
+39        <activity
+39-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:21:7-32:18
+40            android:name="com.crossbow.MainActivity"
+40-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:22:9-37
+41            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+41-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:24:9-118
+42            android:exported="true"
+42-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:27:9-32
+43            android:label="@string/app_name"
+43-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:23:9-41
+44            android:launchMode="singleTask"
+44-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:25:9-40
+45            android:windowSoftInputMode="adjustResize" >
+45-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:26:9-51
+46            <intent-filter>
+46-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:28:9-31:25
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:29:13-65
+47-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:29:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:30:13-73
+49-->/Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:30:23-70
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
+54            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+54-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-94
+55            android:authorities="com.crossbow.provider"
+55-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
+56            android:exported="false"
+56-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+57            android:grantUriPermissions="true" >
+57-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-47
+58            <meta-data
+58-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+59                android:name="android.support.FILE_PROVIDER_PATHS"
+59-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+60                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+60-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+61        </provider>
+62
+63        <activity
+63-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-28:72
+64            android:name="com.yalantis.ucrop.UCropActivity"
+64-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-60
+65            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+65-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-69
+66
+67        <provider
+67-->[:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+68            android:name="com.imagepicker.ImagePickerProvider"
+68-->[:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-63
+69            android:authorities="com.crossbow.imagepickerprovider"
+69-->[:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-71
+70            android:exported="false"
+70-->[:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+71            android:grantUriPermissions="true" >
+71-->[:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+72            <meta-data
+72-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+73                android:name="android.support.FILE_PROVIDER_PATHS"
+73-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+74                android:resource="@xml/imagepicker_provider_paths" />
+74-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+75        </provider>
+76        <provider
+76-->[:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+77            android:name="cl.json.RNShareFileProvider"
+77-->[:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-55
+78            android:authorities="com.crossbow.rnshare.fileprovider"
+78-->[:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-72
+79            android:exported="false"
+79-->[:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+80            android:grantUriPermissions="true" >
+80-->[:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+81            <meta-data
+81-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+83                android:resource="@xml/share_download_paths" />
+83-->[:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+84        </provider>
+85
+86        <meta-data
+86-->[com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+87            android:name="com.facebook.soloader.enabled"
+87-->[com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+88            android:value="false" />
+88-->[com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+89
+90        <provider
+90-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+91            android:name="androidx.startup.InitializationProvider"
+91-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+92            android:authorities="com.crossbow.androidx-startup"
+92-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+93            android:exported="false" >
+93-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+94            <meta-data
+94-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+95                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+95-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+96                android:value="androidx.startup" />
+96-->[androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+97            <meta-data
+97-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+98                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+98-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+99                android:value="androidx.startup" />
+99-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+100        </provider>
+101    </application>
+102
+103</manifest>

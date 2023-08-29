@@ -1,0 +1,478 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77d12dd77e14f84ee3517f5d63c7b41b/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/838b1a1abd1dc44c0a61c37996cc6024/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-async-storage_async-storage] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_art] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-contacts] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-contacts/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fs] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-permissions] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-svg] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-view-shot] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-view-shot/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/dd7e7962a6c054fccdf0152f781733d2/transformed/jetified-react-android-0.72.4-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/55189f6f666d4426310bfb617f7ff173/transformed/jetified-hermes-android-0.72.4-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e09e09800b7f60fcf92f55953c6eca6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/dhananjaykaje/.gradle/caches/transforms-3/17f84fcdce814b1e2bc7736a5e9f78b9/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77a6d1523cc3b947a211f25646910278/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b4f8048bc52c4924313ff8dbdb7a1b8/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/cfb2907165a624a5c3fec558c70cb360/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2087098e1cbe867513b6f9dfe404989d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fca90b9278ca78928d97d6f29d1bf1ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e7495153d560f22c731546b551e8b9a/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/524a77df762140d9da7a3178ffcfb32f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3a45295fd0bc7d9c1c4ff9c23e5489fd/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8df26b1111401584749f3e4aa65e7c0b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a744e4debe4c5a08b8a42d22ba009618/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e231fedfbeb99d63b83a72b59743a3ba/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/71db57cc4aa1b0bc1b23ea800c2e9819/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/204aa15050d23acadebeadd9fb32967b/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3f60815bcc15518454c7934fd86dbc6f/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/880c8062e022322e16aa9966c609e02f/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/85c3099d87a62ae3a819ada4aa7c4670/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a471f47563155a7243f37a031c661d62/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ed065e5714c23c307462b6565a8f96f2/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b4067f8fe9854d0bde4b3c502db60d23/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a0dae52abe89088d3cb6e7461b1003f/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f00d10779f14935f80989b2c392679f8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/44d9c8cc21c6e6e442304c508d1140a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a61981c73ad8d15e65fd80b50bcbe51/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/dhananjaykaje/.gradle/caches/transforms-3/984127edecfba0c916d99e69249b2a38/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/27783b478b8e271f63e3ee68a5c90f8a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6527ddcb433ade199550e9c55b7fe2ac/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b1724f852ec68e6cf0fb51115889ed2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c407b419de0b8c825e1a8e50294172d0/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/813690710a410d3b04a3910c52e3e3fa/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/dhananjaykaje/.gradle/caches/transforms-3/49e0ea35d079f7cdcb09f3161cb8002e/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6ee4351586145924cb4ad72e24331ff8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/32351da1300f4242c62f3417e2753c80/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2384a116b3dceb3e107484b3ed71466c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8ab16ca22be3b7d0580dc369f6bec115/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/abb03f5467620aa439790cb2ea5f091d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8d664d38507a52f32468c7c5b9b28053/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2eede24a45284d1b90872c610146a304/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0ac8bb5a6380ad25451622a2b48a823f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fcb75361e7e173bf748b8dbc1291b95e/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/82643d91d8f6005d0c202814771f784e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/66f0775933a5b66cc7c586086fb4ae41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/29e8aaf7dd39b7e5d3fe8f7a9dcad082/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e32ff74213b2c3c9a14725fbd3d344fa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ae6b999c582c7438229252a384d3ccde/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/407ee0a6b2dbfa6c0263d2658c55ccee/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/298dbe1481481ef25028df99bdac44fe/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/6f0f43c844f938c7e1299cf6dab09f23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/d05f176b0363fed92fd833968770e4ae/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/3c67eae8fd1a2918e1d0abf6e7b9f4f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c95bb2792b4d6600ee57e6d4353e9cb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0c4c7092a462ea31e3588aec45c7195b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b8e4b82c8188110aaa7e4e40892cc7c6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f5b62545f4d587c03b0c9be0eca16b88/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:2:1-18:12
+	package
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:5-65
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:5-72
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:5-72
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:6:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:14:5-33:19
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:14:5-33:19
+MERGED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:14:5-33:19
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a471f47563155a7243f37a031c661d62/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a471f47563155a7243f37a031c661d62/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/6f0f43c844f938c7e1299cf6dab09f23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/6f0f43c844f938c7e1299cf6dab09f23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:16:7-39
+	tools:ignore
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:18:7-52
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:18:7-52
+	tools:targetApi
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:17:7-41
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:19:7-34
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:20:7-38
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.crossbow.MainActivity
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:21:7-32:18
+	android:label
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:launchMode
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:25:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:26:9-51
+	android:exported
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:27:9-32
+	android:configChanges
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:24:9-118
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml:30:23-70
+uses-sdk
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77d12dd77e14f84ee3517f5d63c7b41b/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77d12dd77e14f84ee3517f5d63c7b41b/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/838b1a1abd1dc44c0a61c37996cc6024/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/838b1a1abd1dc44c0a61c37996cc6024/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-async-storage_async-storage] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_art] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_art] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-contacts] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-contacts/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-contacts] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-contacts/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-view-shot] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-view-shot/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-view-shot] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-view-shot/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/dd7e7962a6c054fccdf0152f781733d2/transformed/jetified-react-android-0.72.4-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/dd7e7962a6c054fccdf0152f781733d2/transformed/jetified-react-android-0.72.4-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/55189f6f666d4426310bfb617f7ff173/transformed/jetified-hermes-android-0.72.4-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/55189f6f666d4426310bfb617f7ff173/transformed/jetified-hermes-android-0.72.4-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e09e09800b7f60fcf92f55953c6eca6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e09e09800b7f60fcf92f55953c6eca6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/dhananjaykaje/.gradle/caches/transforms-3/17f84fcdce814b1e2bc7736a5e9f78b9/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/dhananjaykaje/.gradle/caches/transforms-3/17f84fcdce814b1e2bc7736a5e9f78b9/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77a6d1523cc3b947a211f25646910278/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/77a6d1523cc3b947a211f25646910278/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b4f8048bc52c4924313ff8dbdb7a1b8/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b4f8048bc52c4924313ff8dbdb7a1b8/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/cfb2907165a624a5c3fec558c70cb360/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/cfb2907165a624a5c3fec558c70cb360/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2087098e1cbe867513b6f9dfe404989d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2087098e1cbe867513b6f9dfe404989d/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fca90b9278ca78928d97d6f29d1bf1ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fca90b9278ca78928d97d6f29d1bf1ce/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e7495153d560f22c731546b551e8b9a/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2e7495153d560f22c731546b551e8b9a/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/524a77df762140d9da7a3178ffcfb32f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/524a77df762140d9da7a3178ffcfb32f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3a45295fd0bc7d9c1c4ff9c23e5489fd/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3a45295fd0bc7d9c1c4ff9c23e5489fd/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8df26b1111401584749f3e4aa65e7c0b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8df26b1111401584749f3e4aa65e7c0b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a744e4debe4c5a08b8a42d22ba009618/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a744e4debe4c5a08b8a42d22ba009618/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e231fedfbeb99d63b83a72b59743a3ba/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e231fedfbeb99d63b83a72b59743a3ba/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/71db57cc4aa1b0bc1b23ea800c2e9819/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/71db57cc4aa1b0bc1b23ea800c2e9819/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/204aa15050d23acadebeadd9fb32967b/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/204aa15050d23acadebeadd9fb32967b/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3f60815bcc15518454c7934fd86dbc6f/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/3f60815bcc15518454c7934fd86dbc6f/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/880c8062e022322e16aa9966c609e02f/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/880c8062e022322e16aa9966c609e02f/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/85c3099d87a62ae3a819ada4aa7c4670/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/85c3099d87a62ae3a819ada4aa7c4670/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a471f47563155a7243f37a031c661d62/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/a471f47563155a7243f37a031c661d62/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ed065e5714c23c307462b6565a8f96f2/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ed065e5714c23c307462b6565a8f96f2/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b4067f8fe9854d0bde4b3c502db60d23/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b4067f8fe9854d0bde4b3c502db60d23/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a0dae52abe89088d3cb6e7461b1003f/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a0dae52abe89088d3cb6e7461b1003f/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f00d10779f14935f80989b2c392679f8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f00d10779f14935f80989b2c392679f8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/44d9c8cc21c6e6e442304c508d1140a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/44d9c8cc21c6e6e442304c508d1140a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a61981c73ad8d15e65fd80b50bcbe51/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/4a61981c73ad8d15e65fd80b50bcbe51/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/dhananjaykaje/.gradle/caches/transforms-3/984127edecfba0c916d99e69249b2a38/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/dhananjaykaje/.gradle/caches/transforms-3/984127edecfba0c916d99e69249b2a38/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/27783b478b8e271f63e3ee68a5c90f8a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/dhananjaykaje/.gradle/caches/transforms-3/27783b478b8e271f63e3ee68a5c90f8a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6527ddcb433ade199550e9c55b7fe2ac/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6527ddcb433ade199550e9c55b7fe2ac/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b1724f852ec68e6cf0fb51115889ed2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1b1724f852ec68e6cf0fb51115889ed2/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c407b419de0b8c825e1a8e50294172d0/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c407b419de0b8c825e1a8e50294172d0/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/813690710a410d3b04a3910c52e3e3fa/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/813690710a410d3b04a3910c52e3e3fa/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/dhananjaykaje/.gradle/caches/transforms-3/49e0ea35d079f7cdcb09f3161cb8002e/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/dhananjaykaje/.gradle/caches/transforms-3/49e0ea35d079f7cdcb09f3161cb8002e/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6ee4351586145924cb4ad72e24331ff8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/6ee4351586145924cb4ad72e24331ff8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/32351da1300f4242c62f3417e2753c80/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/32351da1300f4242c62f3417e2753c80/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2384a116b3dceb3e107484b3ed71466c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2384a116b3dceb3e107484b3ed71466c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8ab16ca22be3b7d0580dc369f6bec115/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8ab16ca22be3b7d0580dc369f6bec115/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/abb03f5467620aa439790cb2ea5f091d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/abb03f5467620aa439790cb2ea5f091d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8d664d38507a52f32468c7c5b9b28053/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/8d664d38507a52f32468c7c5b9b28053/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2eede24a45284d1b90872c610146a304/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/2eede24a45284d1b90872c610146a304/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0ac8bb5a6380ad25451622a2b48a823f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0ac8bb5a6380ad25451622a2b48a823f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fcb75361e7e173bf748b8dbc1291b95e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/fcb75361e7e173bf748b8dbc1291b95e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/82643d91d8f6005d0c202814771f784e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/82643d91d8f6005d0c202814771f784e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/00f9fee6257fdf843bce1d66353afce9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/66f0775933a5b66cc7c586086fb4ae41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/66f0775933a5b66cc7c586086fb4ae41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/29e8aaf7dd39b7e5d3fe8f7a9dcad082/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/29e8aaf7dd39b7e5d3fe8f7a9dcad082/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e32ff74213b2c3c9a14725fbd3d344fa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/e32ff74213b2c3c9a14725fbd3d344fa/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ae6b999c582c7438229252a384d3ccde/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/ae6b999c582c7438229252a384d3ccde/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/407ee0a6b2dbfa6c0263d2658c55ccee/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/407ee0a6b2dbfa6c0263d2658c55ccee/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/298dbe1481481ef25028df99bdac44fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/298dbe1481481ef25028df99bdac44fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/6f0f43c844f938c7e1299cf6dab09f23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/6f0f43c844f938c7e1299cf6dab09f23/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/d05f176b0363fed92fd833968770e4ae/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/d05f176b0363fed92fd833968770e4ae/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/3c67eae8fd1a2918e1d0abf6e7b9f4f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/dhananjaykaje/.gradle/caches/transforms-3/3c67eae8fd1a2918e1d0abf6e7b9f4f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c95bb2792b4d6600ee57e6d4353e9cb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/c95bb2792b4d6600ee57e6d4353e9cb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0c4c7092a462ea31e3588aec45c7195b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/0c4c7092a462ea31e3588aec45c7195b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b8e4b82c8188110aaa7e4e40892cc7c6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/b8e4b82c8188110aaa7e4e40892cc7c6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f5b62545f4d587c03b0c9be0eca16b88/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/f5b62545f4d587c03b0c9be0eca16b88/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:9-111
+	android:exported
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:84-108
+	android:name
+		ADDED from /Users/dhananjaykaje/Desktop/assesment/CrossBow/android/app/src/debug/AndroidManifest.xml:16:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.182.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/dff18550d951d1deea2a0db71a01325b/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
+queries
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-70
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-24:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-28:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-60
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-63
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/dhananjaykaje/Desktop/assesment/CrossBow/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-55
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/dhananjaykaje/.gradle/caches/transforms-3/f1cdabeda8764a4f1ac6f22ddeb45e3d/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/372247bfb4e26ded7777dec6082b7bd5/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/1a3cc4e7ae141df6aba833c1355e7148/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/dhananjaykaje/.gradle/caches/transforms-3/ba32bec9ac398e78789dbf4fb3b741c9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
